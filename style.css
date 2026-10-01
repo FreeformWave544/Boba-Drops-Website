@@ -1,0 +1,16 @@
+body {
+    background-color: #ec3750;
+    font-size: xx-large;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8492a6;
+}
+
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background-color: #ec3750; }
+::-webkit-scrollbar-thumb { background-color: #8492a6; }
+::-webkit-scrollbar:hover { width: 150px; }
